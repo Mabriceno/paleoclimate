@@ -23,7 +23,7 @@ Este proyecto tiene como objetivo evaluar cómo han variado los controladores de
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu_usuario/climate_precipitation_analysis.git
+   git clone https://github.com/Mabriceno/paleoclimate_chile_central_precipp_analysis.git
    cd climate_precipitation_analysis
 
 2.  **Instalar dependecias** 
